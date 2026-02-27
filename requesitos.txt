@@ -1,0 +1,8 @@
+
+
+Solicitações dos stakeholders:
+- Cadastro de usuários no sistema
+- Controle de acesso por login e senha
+- Geração de relatórios
+- Atualização de dados dos clientes
+- Melhorias na segurança do sistema

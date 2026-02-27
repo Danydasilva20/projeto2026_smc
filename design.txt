@@ -1,0 +1,7 @@
+
+Principais telas:
+- Tela de login
+- Dashboard principal
+- Cadastro de clientes
+- Relatórios do sistema
+
